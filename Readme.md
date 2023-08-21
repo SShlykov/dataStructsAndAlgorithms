@@ -1,0 +1,73 @@
+## Алгоритмы и структуры данных
+
+### Простые структуры данных:
+
+* [Строка](simple/string.go) (English: String, Deutsch: Zeichenkette/String)
+* [Массив](simple/array.md)  (English: Array, Deutsch: Array)
+* [Кортеж](simple/tuple.md)  (English: Tuple, Deutsch: Tupel)
+* [Набор](simple/set.md)     (English: Set, Deutsch: Menge)
+* [Карты (словари)](simple/map_dict.md) (English: Map/Dictionary, Deutsch: Karte/Wörterbuch)
+* [Стек](simple/stack.md)               (English: Stack, Deutsch: Stapel)
+* [Очередь](simple/queue.md)            (English: Queue, Deutsch: Warteschlange)
+* [Связный список](simple/linked_list)     (English: Linked List, Deutsch: Verkettete Liste)
+* [Дерево](simple/tree.md)  (English: Basic Tree, Deutsch: Grundbaum)
+* [Граф](simple/graph.md)   (English: Basic Graph, Deutsch: Grundgraph)
+* [Куча](simple/heap.md)   (English: Heap, Deutsch: Haufen)
+* Двоичное дерево поиска    (English: Binary Search Tree, Deutsch: Binärer Suchbaum)
+* Хеш-таблица               (English: Hash Table, Deutsch: Hash-Tabelle)
+* Очередь с приоритетом     (English: Priority Queue, Deutsch: Prioritätswarteschlange)
+* Дек                       (English: Deque, Deutsch: Deque)
+
+### Простые алгоритмы:
+
+* Двоичный поиск        (English: Binary Search, Deutsch: Binäre Suche)
+* Линейный поиск        (English: Linear Search, Deutsch: Lineare Suche)
+* Сортировка пузырьком  (English: Bubble Sort, Deutsch: Bubblesortierung)
+* Сортировка вставками  (English: Insertion Sort, Deutsch: Einfügesortierung)
+* Сортировка выбором    (English: Selection Sort, Deutsch: Auswahlverfahren)
+* Рекурсия              (English: Recursion, Deutsch: Rekursion)
+* Алгоритм Евклида      (English: Euclidean Algorithm, Deutsch: Euklidischer Algorithmus)
+* Глубокий и широкий поиск в графе (English: DFS/BFS, Deutsch: Tiefen-/Breitensuche)
+* Факториал                        (English: Factorial, Deutsch: Fakultät)
+* Алгоритмы на строках (например, поиск подстроки)   (English: String Algorithms, Deutsch: Zeichenkettenalgorithmen)
+* Подсчет элементов                                  (English: Counting, Deutsch: Zählen)
+* Разделение и завоевание                            (English: Divide and Conquer, Deutsch: Teile und Herrsche)
+* Динамическое программирование (на простых задачах) (English: Basic Dynamic Programming, Deutsch: Grundlegende dynamische Programmierung)
+* Жадные алгоритмы (на простых задачах)              (English: Basic Greedy Algorithms, Deutsch: Grundlegende gierige Algorithmen)
+* Алгоритм Дейкстры                                  (English: Dijkstra's Algorithm, Deutsch: Dijkstras Algorithmus)
+
+### Продвинутые структуры данных:
+
+* Красно-черное дерево         (English: Red-Black Tree, Deutsch: Rot-Schwarz-Baum)
+* B-дерево и B+-дерево         (English: B-tree/B+ tree, Deutsch: B-Baum/B+-Baum)
+* Дерево отрезков              (English: Segment Tree, Deutsch: Segmentbaum)
+* Граф (продвинутые концепции) (English: Advanced Graph, Deutsch: Fortgeschrittener Graph)
+* Дерево Фенвика               (English: Fenwick Tree or Binary Indexed Tree, Deutsch: Fenwick-Baum oder Binär indexierter Baum)
+* Декартово дерево             (English: Treap (Tree + Heap), Deutsch: Treap (Baum + Haufen))
+* Троичное дерево поиска       (English: Ternary Search Tree, Deutsch: Ternärer Suchbaum)
+* Splay-дерево                 (English: Splay Tree, Deutsch: Splay-Baum)
+* Дерево промежутков           (English: Interval Tree, Deutsch: Intervallbaum)
+* Граф с множеством уровней    (English: Multilevel Graph, Deutsch: Mehrstufiger Graph)
+* Двусвязный список            (English: Doubly Linked List, Deutsch: Doppelt verkettete Liste)
+* Суффиксное дерево и суффиксный массив (English: Suffix Tree/Suffix Array, Deutsch: Suffixbaum/Suffixarray)
+* Хеш-таблица с открытой адресацией     (English: Open Addressing Hash Table, Deutsch: Hash-Tabelle mit offener Adressierung)
+* Куча Фибоначчи                        (English: Fibonacci Heap, Deutsch: Fibonacci-Haufen)
+* Список с пропусками                   (English: Skip List, Deutsch: Skip-Liste)
+
+### Продвинутые алгоритмы:
+
+* Сортировка слиянием          (English: Merge Sort, Deutsch: Mergesortierung)
+* Быстрая сортировка           (English: Quick Sort, Deutsch: Quicksortierung)
+* Алгоритм Флойда-Воршалла     (English: Floyd-Warshall Algorithm, Deutsch: Floyd-Warshall-Algorithmus)
+* Сортировка подсчетом         (English: Counting Sort, Deutsch: Zählungssortierung)
+* Расширенный алгоритм Евклида (English: Extended Euclidean Algorithm, Deutsch: Erweiterter euklidischer Algorithmus)
+* Алгоритм Крускала, Прима     (English: Kruskal's/Prim's Algorithm, Deutsch: Kruskal's/Prim's Algorithmus)
+* Сортировка кучей             (English: Heap Sort, Deutsch: Heapsortierung)
+* Алгоритм Форда-Беллмана      (English: Bellman-Ford Algorithm, Deutsch: Bellman-Ford-Algorithmus)
+* Алгоритм Карацубы            (English: Karatsuba Algorithm, Deutsch: Karazuba-Algorithmus)
+* Алгоритм Касараджу для поиска сильно связанных компонент          (English: Kosaraju's Algorithm, Deutsch: Kosaraju-Algorithmus)
+* Алгоритм Тарьяна для поиска сильно связанных компонент            (English: Tarjan's Algorithm, Deutsch: Tarjan-Algorithmus)
+* Алгоритм Штрассена                                                (English: Strassen's Matrix Multiplication, Deutsch: Strassen-Matrixmultiplikation)
+* Алгоритмы на графах: поиск мостов и точек сочленения              (English: Graph Algorithms for Bridges and Articulation Points, Deutsch: Graphenalgorithmen für Brücken und Artikulationspunkte)
+* Геометрические алгоритмы: выпуклая оболочка, пересечение отрезков (English: Geometric Algorithms, Deutsch: Geometrische Algorithmen)
+* Алгоритм Борувки                                                  (English: Boruvka's Algorithm, Deutsch: Boruvka-Algorithmus)
