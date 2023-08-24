@@ -30,5 +30,17 @@ func main() {
 
 	fmt.Println("-----------")
 	myHeap()
+
+	fmt.Println("-----------")
+	bst()
+
+	fmt.Println("-----------")
+	HashTable()
+
+	fmt.Println("-----------")
+	priorityQ()
+
+	fmt.Println("-----------")
+	deq()
 	fmt.Println("all executed")
 }
