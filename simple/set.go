@@ -1,10 +1,10 @@
-package main
+package simple_structs
 
 import (
 	"fmt"
 )
 
-func setList() {
+func SetList() {
 	set := make(map[int]bool)
 
 	set[1] = true

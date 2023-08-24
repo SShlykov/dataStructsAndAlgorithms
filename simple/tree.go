@@ -1,4 +1,4 @@
-package main
+package simple_structs
 
 import (
 	"fmt"
@@ -10,7 +10,7 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func tree() {
+func Tree() {
 	root := &TreeNode{Value: 10}
 
 	root.Left = &TreeNode{Value: 5}

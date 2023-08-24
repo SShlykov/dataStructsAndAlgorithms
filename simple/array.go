@@ -1,8 +1,8 @@
-package main
+package simple_structs
 
 import "fmt"
 
-func array() {
+func Array() {
 	var arr [5]int
 
 	for i := 0; i < 5; i++ {

@@ -1,8 +1,8 @@
-package main
+package simple_structs
 
 import "fmt"
 
-func mapDict() {
+func MapDict() {
 	// Инициализация карты
 	m := make(map[string]int)
 

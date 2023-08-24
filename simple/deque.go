@@ -1,4 +1,4 @@
-package main
+package simple_structs
 
 import (
 	"container/list"
@@ -35,7 +35,7 @@ func (d *Deque) PopBack() interface{} {
 	return d.l.Remove(d.l.Back())
 }
 
-func deq() {
+func Deq() {
 	deque := NewDeque()
 	deque.PushFront(1)
 	deque.PushBack(2)

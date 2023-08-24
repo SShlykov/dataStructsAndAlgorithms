@@ -1,4 +1,4 @@
-package main
+package simple_structs
 
 import "fmt"
 
@@ -42,7 +42,7 @@ func inOrder(BSTNode *BSTNode) {
 
 }
 
-func bst() {
+func Bst() {
 	tree := &BinarySearchTree{}
 	tree.Insert(5)
 	tree.Insert(3)

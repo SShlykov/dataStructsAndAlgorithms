@@ -1,4 +1,4 @@
-package main
+package simple_structs
 
 import "fmt"
 
@@ -18,7 +18,7 @@ func (q *Queue) Dequeue() int {
 	return res
 }
 
-func queue() {
+func Queue() {
 	var q Queue
 
 	q.Enqueue(1)

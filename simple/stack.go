@@ -1,4 +1,4 @@
-package main
+package simple_structs
 
 import "fmt"
 
@@ -15,7 +15,7 @@ func (s *Stack) Pop() int {
 	return res
 }
 
-func stack() {
+func Stack() {
 	var s Stack
 
 	s.Push(1)

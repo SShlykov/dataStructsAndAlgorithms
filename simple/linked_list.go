@@ -1,4 +1,4 @@
-package main
+package simple_structs
 
 import "fmt"
 
@@ -35,7 +35,7 @@ func (l *LinkedList) Display() {
 	fmt.Print("]\n")
 }
 
-func linked_list() {
+func Linked_list() {
 	list := &LinkedList{}
 	list.Append(1)
 	list.Append(2)

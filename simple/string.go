@@ -1,8 +1,8 @@
-package main
+package simple_structs
 
 import "fmt"
 
-func myString() {
+func MyString() {
 	var str1 string = "Hello"
 	str2 := ", World!"
 

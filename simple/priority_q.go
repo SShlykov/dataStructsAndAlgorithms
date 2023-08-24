@@ -1,4 +1,4 @@
-package main
+package simple_structs
 
 import (
 	"container/heap"
@@ -42,7 +42,7 @@ func (pq *PriorityQueue) Pop() interface{} {
 	return item
 }
 
-func priorityQ() {
+func PriorityQ() {
 	items := map[string]int{
 		"task1": 3,
 		"task2": 1,

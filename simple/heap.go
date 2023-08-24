@@ -1,4 +1,4 @@
-package main
+package simple_structs
 
 import (
 	"container/heap"
@@ -23,7 +23,7 @@ func (h *IntHeap) Pop() interface{} {
 	return x
 }
 
-func myHeap() {
+func MyHeap() {
 	h := &IntHeap{2, 1, 5}
 	heap.Init(h)
 	heap.Push(h, 3)
