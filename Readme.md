@@ -13,10 +13,10 @@
 * [Дерево](simple/tree.md)  (English: Basic Tree, Deutsch: Grundbaum)
 * [Граф](simple/graph.md)   (English: Basic Graph, Deutsch: Grundgraph)
 * [Куча](simple/heap.md)   (English: Heap, Deutsch: Haufen)
-* Двоичное дерево поиска    (English: Binary Search Tree, Deutsch: Binärer Suchbaum)
-* Хеш-таблица               (English: Hash Table, Deutsch: Hash-Tabelle)
-* Очередь с приоритетом     (English: Priority Queue, Deutsch: Prioritätswarteschlange)
-* Дек                       (English: Deque, Deutsch: Deque)
+* [Двоичное дерево поиска](simple/bst.md)(English: Binary Search Tree, Deutsch: Binärer Suchbaum)
+* [Хеш-таблица](simple/hash_table.md)    (English: Hash Table, Deutsch: Hash-Tabelle)
+* [Очередь с приоритетом](simple/priority_q.md)     (English: Priority Queue, Deutsch: Prioritätswarteschlange)
+* [Дек](simple/deque.md)                       (English: Deque, Deutsch: Deque)
 
 ### Простые алгоритмы:
 

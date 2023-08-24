@@ -1,46 +1,49 @@
-package main
+package algorithms
 
-import "fmt"
+import (
+	"algorithms/simple"
+	"fmt"
+)
 
 func main() {
 
 	fmt.Println("-----------")
-	array()
+	simple_structs.Array()
 
 	fmt.Println("-----------")
-	stack()
+	simple_structs.Stack()
 
 	fmt.Println("-----------")
-	queue()
+	simple_structs.Queue()
 
 	fmt.Println("-----------")
-	linked_list()
+	simple_structs.Linked_list()
 
 	fmt.Println("-----------")
-	setList()
+	simple_structs.SetList()
 
 	fmt.Println("-----------")
-	mapDict()
+	simple_structs.MapDict()
 
 	fmt.Println("-----------")
-	myString()
+	simple_structs.MyString()
 
 	fmt.Println("-----------")
-	tree()
+	simple_structs.Tree()
 
 	fmt.Println("-----------")
-	myHeap()
+	simple_structs.MyHeap()
 
 	fmt.Println("-----------")
-	bst()
+	simple_structs.Bst()
 
 	fmt.Println("-----------")
-	HashTable()
+	simple_structs.HashTable()
 
 	fmt.Println("-----------")
-	priorityQ()
+	simple_structs.PriorityQ()
 
 	fmt.Println("-----------")
-	deq()
+	simple_structs.Deq()
 	fmt.Println("all executed")
 }
